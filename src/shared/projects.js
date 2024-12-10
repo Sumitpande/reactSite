@@ -5,7 +5,7 @@ export const PROJECTS = [
     image: "/assets/images/shopping.svg",
     code: "https://github.com/Sumitpande/buyzu",
     site: "https://buyzu.herokuapp.com/",
-    chips: ["django", "html", "css"],
+    chips: ["django", "html", "css","javascript"],
     description: "It is a shopping site. It is developed in django framework."
   },
   {
@@ -14,7 +14,7 @@ export const PROJECTS = [
     image: "/assets/images/finance.svg",
     code: "https://github.com/Sumitpande/ExpenseTracker",
     site: "https://expense-tracker007.herokuapp.com/expense/",
-    chips: ["django", "html", "css"],
+    chips: ["django", "html", "css","javascript"],
     description:
       "Expense Tracker is a system which will keep a track of Money flow of a user on a day to day basis."
   },
